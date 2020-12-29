@@ -1,2 +1,3 @@
-# odds-medium-publication
-ODDS Medium Publication
+# ODDS Medium Publication Stats
+
+Just for fun!
